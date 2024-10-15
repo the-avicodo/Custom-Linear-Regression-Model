@@ -43,6 +43,7 @@ w = descent(w, .1)
 
 ### Evaluating the Model
 I evaluated the model with the test data by comparing the Root Mean Squared Error(RMSE) with the standard deviation(SD). If the RMSE was less than half of the SD, then I considered an effective model.
+
 ![image](https://github.com/user-attachments/assets/778e2239-46e0-404c-af18-21353de71dea)
 
 Thanks for reading!
