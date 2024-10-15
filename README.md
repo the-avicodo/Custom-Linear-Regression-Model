@@ -1,5 +1,6 @@
 # Custom Linear Regression Model w/ NumPy
 A thorough, yet simple model that shows the math behind linear regression. This project is based on [Normalized Nerd's YT project](https://youtu.be/fnDO1s4fzi4?si=GIuv131ntvrPf2np)(more comments, visuals, test eval. metrics, etc.)
+
 ![image](https://github.com/user-attachments/assets/37105d32-34df-4e38-a633-0b8cbf9135e7)
 
 ### Project Overview
